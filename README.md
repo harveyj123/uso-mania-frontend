@@ -1,5 +1,8 @@
 # uso
 
+#link to website: https://uso-mania.netlify.app/login
+#note to access the site you have to sign up first
+
 ## Build Setup
 
 ```bash
